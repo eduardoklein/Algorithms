@@ -75,6 +75,4 @@ pytest
   - setup.cfg
   - pyproject.toml
 
-## Observações
-
-Este projeto segue as práticas recomendadas de organização de código e testes automatizados. Para dúvidas ou sugestões, abra uma issue ou envie
+Este projeto foi desenvolvido como parte do curso da Trybe.
